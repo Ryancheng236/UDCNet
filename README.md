@@ -20,10 +20,9 @@
 
 ## Method Overview
 
-```
+
 <img width="6330" height="2256" alt="UDCNet2" src="https://github.com/user-attachments/assets/5b53e600-9258-4a43-9bc8-4562055ea5c9" />
 
-```
 
 **UDCNet** consists of two stages:
 
