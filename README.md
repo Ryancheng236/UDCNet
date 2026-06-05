@@ -45,7 +45,8 @@ The angular spectrum method (ASM) is used for wave propagation between the SLM p
 | :---------------- | :-------: | :-------: |
 | **UDCNet (Ours)** | **30.35** | **0.935** |
 
-<img width="3510" height="2083" alt="不同方法对比实验图-第 17 页" src="https://github.com/user-attachments/assets/7126f1ee-3820-488e-99f2-9e6cd373444e" />
+<img width="4391" height="2081" alt="不同方法对比实验图-第 17 页" src="https://github.com/user-attachments/assets/fd0e72e7-f20c-4987-ae35-b97824c500e3" />
+
 
 
 ### Multi-depth Reconstruction Quality
