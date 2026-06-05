@@ -41,9 +41,9 @@ The angular spectrum method (ASM) is used for wave propagation between the SLM p
 
 ### Quantitative Comparison (at d = 20 cm)
 
-| Method            | PSNR (dB) |   SSIM    | Inference Time |
-| :---------------- | :-------: | :-------: | :------------: |
-| **UDCNet (Ours)** | **30.35** | **0.935** | **118.66 ms**  |
+| Method            | PSNR (dB) |   SSIM    |
+| :---------------- | :-------: | :-------: |
+| **UDCNet (Ours)** | **30.35** | **0.935** |
 
 <img width="3510" height="2083" alt="不同方法对比实验图-第 17 页" src="https://github.com/user-attachments/assets/7126f1ee-3820-488e-99f2-9e6cd373444e" />
 
