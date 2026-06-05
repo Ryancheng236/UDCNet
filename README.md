@@ -21,7 +21,7 @@
 ## Method Overview
 
 ```
-<img width="6330" height="2256" alt="UDCNet2" src="https://github.com/user-attachments/assets/cb87bb20-efd9-4baf-8fb6-68b25a891cc8" />
+<img width="6330" height="2256" alt="UDCNet2" src="https://github.com/user-attachments/assets/5b53e600-9258-4a43-9bc8-4562055ea5c9" />
 
 ```
 
