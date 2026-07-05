@@ -32,6 +32,12 @@
    - **Upper channel** (U-Net-based): Extracts global structural information via DO-Conv and CRAB modules
    - **Lower channel** (ResNet-based): Captures local detail information via HDCRAB with hybrid dilated convolutions
    - **SDFB** (Semantic Difference Fusion Block): Fuses features from both channels to generate the final phase hologram
+  
+<img width="5196" height="2352" alt="DCNet" src="https://github.com/user-attachments/assets/c1a07da4-5500-4041-b302-e58e6bade9c6" />
+
+  
+<img width="9612" height="8996" alt="module" src="https://github.com/user-attachments/assets/d90b516e-81b5-4047-8120-c264d4bf6ce3" />
+
 
 The angular spectrum method (ASM) is used for wave propagation between the SLM plane and target planes.
 
